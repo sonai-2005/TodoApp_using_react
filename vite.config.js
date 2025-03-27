@@ -8,6 +8,6 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss(),
   ],
-  base :"/TodoApp_using_react.git/",
+  base :"https://sonai-2005.github.io/TodoApp_using_react/",
 
 })
