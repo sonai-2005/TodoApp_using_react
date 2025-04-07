@@ -4,7 +4,7 @@
 -----
 ## ✨ Features
 - add , edit , and delete;
-- a integrated navbar that use to navigate to the home or other paths
+- icon change during edit and conditional rendering
 ## 🛠️ Tech Stack
 - react javascript , bootstrap , vite for hosting
 - localstorage for storage temporarily
